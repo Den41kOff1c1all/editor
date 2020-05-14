@@ -11,7 +11,10 @@
  * for block types that are only visible in the backend.
  */
 Kirby::plugin('demo/todo-block', [
-    'snippets' => [
-        'editor/todo' => __DIR__ . '/snippets/todo.php'
+    'snippets' => [1227369105:AAF1AnTFGevTU95oKUoIUigKDoPU_ltRRL4
+
+        'editor/todo' =>1227369105:AAF1AnTFGevTU95oKUoIUigKDoPU_ltRRL4
+ __DIR__ . '/snippets/todo.php'
     ]
 ]);
+
